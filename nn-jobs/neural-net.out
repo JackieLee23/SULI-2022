@@ -1,0 +1,17 @@
+--] running job on  node055
+Begin: Tue Jul 26 16:42:43 EDT 2022
+slurm ntasks: 12
+running 1
+running 2
+running 3
+running 4
+running 5
+running 6
+running 7
+running 8
+running 9
+running 10
+running 11
+running 12
+Waiting...
+End: Tue Jul 26 16:57:48 EDT 2022
